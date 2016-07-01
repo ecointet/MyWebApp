@@ -5,4 +5,4 @@ For a demo, edit the page "pages/home.php"
 
 Then... STACKATO PUSH (or CF PUSH).
 
-Scale you app (--instances 5) to see each local port number.
+Scale you app (stackato scale --instances 5) to see each different local port number (each time you reload the page).
